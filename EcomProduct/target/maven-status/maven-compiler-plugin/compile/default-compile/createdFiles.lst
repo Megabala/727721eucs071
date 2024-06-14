@@ -1,0 +1,6 @@
+com\model\lab\entity\Company.class
+com\model\lab\repo\CategoryRepository.class
+com\model\lab\repo\CompanyRepository.class
+com\model\lab\EcomProductApplication.class
+com\model\lab\entity\Category.class
+com\model\lab\entity\Product.class
